@@ -2,10 +2,7 @@
 
 **`Desenvolvedor Front-End iniciante freelancer`**
 
-🎓 Técnico em Desenvolvimento de Sistemas | Estudando C#
-💻 Conhecimento em HTML, CSS & JS — em evolução constante
-📄 Experiência com relatórios técnicos e normas ABNT
-🔍 Focado em resolver problemas reais com código
+🎓 Técnico em Desenvolvimento de Sistemas
 
 🔗 [LinkedIn](https://www.linkedin.com/in/gianlucavirginio/)
 🌐 [Portfólio](https://gdvirginio.github.io)
