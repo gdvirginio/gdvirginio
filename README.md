@@ -1,7 +1,5 @@
 # 💻 Gianluca Virginio
 
-**`Desenvolvedor Front-End iniciante freelancer`**
-
 🎓 Técnico em Desenvolvimento de Sistemas
 
 🔗 [LinkedIn](https://www.linkedin.com/in/gianlucavirginio/)
