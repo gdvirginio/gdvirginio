@@ -3,7 +3,6 @@
 🎓 Técnico em Desenvolvimento de Sistemas
 
 🔗 [LinkedIn](https://www.linkedin.com/in/gianlucavirginio/)
-🌐 [Portfólio](https://gdvirginio.github.io)
 
 ---
 
