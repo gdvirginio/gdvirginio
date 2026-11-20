@@ -11,7 +11,6 @@ Estudante do curso técnico em **Desenvolvimento de Sistemas** pela **Etec Douto
 
 * 🔬 **Autor Principal** da pesquisa científica *"A Noite Está Sumindo: O Impacto da Poluição Luminosa na Saúde Humana e na Natureza"*, aprovada para publicação nos Anais do **18º COBRIC (UNISANTA, 2026)**.
 * 💻 Foco em interfaces web e mobile responsivas, arquitetura de software e bancos de dados.
-* 🌐 **Portfólio Web:** [portfolio-gianluca.vercel.app](https://portfolio-gianluca.vercel.app/)
 
 ---
 
